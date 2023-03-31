@@ -1,0 +1,2 @@
+/usr/bin/ar qc libreseeds.a CMakeFiles/reseeds.dir/__/lib_reseeds/lib/SeedsRevised.cpp.o
+/usr/bin/ranlib libreseeds.a

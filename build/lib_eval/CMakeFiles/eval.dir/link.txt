@@ -1,0 +1,2 @@
+/usr/bin/ar qc libeval.a CMakeFiles/eval.dir/io_util.cpp.o CMakeFiles/eval.dir/superpixel_tools.cpp.o CMakeFiles/eval.dir/evaluation.cpp.o CMakeFiles/eval.dir/visualization.cpp.o CMakeFiles/eval.dir/evaluation_summary.cpp.o CMakeFiles/eval.dir/parameter_optimization_tool.cpp.o CMakeFiles/eval.dir/depth_tools.cpp.o CMakeFiles/eval.dir/transformation.cpp.o CMakeFiles/eval.dir/robustness_tool.cpp.o
+/usr/bin/ranlib libeval.a

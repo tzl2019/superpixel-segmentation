@@ -1,0 +1,2 @@
+/usr/bin/ar qc libers.a CMakeFiles/ers.dir/ers_opencv.cpp.o CMakeFiles/ers.dir/MERCCInput.cpp.o CMakeFiles/ers.dir/MERCDisjointSet.cpp.o CMakeFiles/ers.dir/MERCFunctions.cpp.o CMakeFiles/ers.dir/MERCLazyGreedy.cpp.o CMakeFiles/ers.dir/MERCOutput.cpp.o
+/usr/bin/ranlib libers.a

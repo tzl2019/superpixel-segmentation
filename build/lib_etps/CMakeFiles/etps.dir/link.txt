@@ -1,0 +1,2 @@
+/usr/bin/ar qc libetps.a CMakeFiles/etps.dir/etps_opencv.cpp.o CMakeFiles/etps.dir/stdafx.cpp.o CMakeFiles/etps.dir/utils.cpp.o CMakeFiles/etps.dir/functions.cpp.o CMakeFiles/etps.dir/structures.cpp.o CMakeFiles/etps.dir/segengine.cpp.o CMakeFiles/etps.dir/spixel.cpp.o CMakeFiles/etps.dir/SGMStereo.cpp.o
+/usr/bin/ranlib libetps.a

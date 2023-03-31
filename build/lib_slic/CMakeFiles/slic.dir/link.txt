@@ -1,0 +1,2 @@
+/usr/bin/ar qc libslic.a CMakeFiles/slic.dir/slic_opencv.cpp.o CMakeFiles/slic.dir/SLIC.cpp.o
+/usr/bin/ranlib libslic.a
